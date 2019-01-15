@@ -3,9 +3,9 @@
 Jest to aplikacja konsolowa przechowująca książki, magazyny i użytkowników biblioteki.
 Do stworzenia aplikacji wykorzystałem wszystko co umiem w java, czyli:
 
-1. zapisywanie do plików
+1. zapisywanie do plików(zapisanie stanu)
 
-2. odczytywanoie z pliku
+2. odczytywanoie z pliku(odczytanie stanu)
 
 3. sortowanie
 
