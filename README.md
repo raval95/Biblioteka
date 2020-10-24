@@ -1,7 +1,7 @@
 # Biblioteka
 
 Jest to aplikacja konsolowa przechowująca książki, magazyny i użytkowników biblioteki.
-Do stworzenia aplikacji wykorzystałem wszystko co umiem w java, czyli:
+Do stworzenia aplikacji wykorzystałem :
 
 1. zapisywanie do plików(zapisanie stanu)
 
